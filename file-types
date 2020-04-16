@@ -1,9 +1,9 @@
-api/
++ api/
   APIUtils.js
   APIUtils.test.js
   ProfileAPI.js
   UserAPI.js
-components/
++ components/
   Avatar.js
   Avatar.css
   Feed.js
